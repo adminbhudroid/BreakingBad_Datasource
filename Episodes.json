@@ -1,0 +1,42 @@
+[
+   {
+      "episode_id": 2,
+      "title": "Cat's in the Bag...",
+	  "description": "Walt and Jesse attempt to tie up loose ends. Skyler becomes suspicious of Walt's strange behavior.",
+      "season": "1",
+      "color": "blue",
+      "air_date": "01-27-2008",
+      "characters": [
+         "Walter White",
+         "Jesse Pinkman",
+         "Skyler White",
+         "Walter White Jr.",
+         "Krazy-8"
+      ],
+      "episode": "2",
+      "series": "Breaking Bad",
+	  "trackId":"70196253"
+   },
+   {
+      "episode_id": 5,
+      "title": "Gray Matter",
+	  "description": "Walt and Skyler attend the birthday party of an affluent former colleague. Jesse attempts to go straight.",
+      "season": "1",
+      "color": "blue",
+      "air_date": "02-24-2008",
+      "characters": [
+         "Walter White",
+         "Jesse Pinkman",
+         "Skyler White",
+         "Hank Schrader",
+         "Marie Schrader",
+         "Walter White Jr.",
+         "Elliott Schwarts",
+         "Gretchen Swartz",
+         "Badger"
+      ],
+      "episode": "5",
+      "series": "Breaking Bad",
+	  "trackId":"70196256"
+   }
+]
